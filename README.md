@@ -19,4 +19,4 @@ The repository includes various libraries downloaded from Github and used in the
 
 
 ## Contributors
-[Doha ElHady](https://github.com/DohaElHady) - Mariam Essam - Asmaa Samir - Mariam Mohammed - Omnia Mahmoud - Samaa Hany
+[Doha ElHady](https://github.com/DohaElHady) - Mariam Essam - Asmaa Samir - Mariam Mohammed - [Omnia Mahmoud](https://github.com/omniahh) - Samaa Hany
